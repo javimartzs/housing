@@ -1,0 +1,357 @@
+barrio,habs,price,city
+abando-albia,0,1400,Bilbao
+abando-albia,1,1193.3,Bilbao
+abando-albia,2,1695.3,Bilbao
+abando-albia,3,2152.2,Bilbao
+abando-albia,Más de 3,2532.6,Bilbao
+agra-del-orzan-ventorrillo,0,710,A Coruña
+agra-del-orzan-ventorrillo,2,797.5,A Coruña
+agra-del-orzan-ventorrillo,3,873.3,A Coruña
+agra-del-orzan-ventorrillo,Más de 3,1032.5,A Coruña
+aiete,1,1250,San sebastián
+aiete,2,1370,San sebastián
+aiete,3,1678.6,San sebastián
+aiete,Más de 3,1500,San sebastián
+altza-bidebieta,2,1533.3,San sebastián
+altza-bidebieta,3,1425,San sebastián
+altza-bidebieta,Más de 3,3050,San sebastián
+amara,1,1000,San sebastián
+amara,2,1511.2,San sebastián
+amara,3,1720.8,San sebastián
+anorga,3,2800,San sebastián
+antiguo,1,1200,San sebastián
+antiguo,2,1821.2,San sebastián
+antiguo,3,2105.5,San sebastián
+antiguo,Más de 3,2533.3,San sebastián
+arganzuela,0,1203.7,Madrid
+arganzuela,1,1360.8,Madrid
+arganzuela,2,1631.1,Madrid
+arganzuela,3,1974.2,Madrid
+arganzuela,Más de 3,3990,Madrid
+ategorrieta-ulia,0,950,San sebastián
+ategorrieta-ulia,2,1600,San sebastián
+ategorrieta-ulia,Más de 3,2900,San sebastián
+bailen-miraflores,0,955,Málaga
+bailen-miraflores,1,901.4,Málaga
+bailen-miraflores,2,1016.6,Málaga
+bailen-miraflores,3,1186,Málaga
+bailen-miraflores,Más de 3,1333.3,Málaga
+barajas,0,850,Madrid
+barajas,1,1158.8,Madrid
+barajas,2,1401.9,Madrid
+barajas,3,1902.1,Madrid
+barajas,Más de 3,2829.2,Madrid
+barrio-de-salamanca,0,1371,Madrid
+barrio-de-salamanca,1,1964.8,Madrid
+barrio-de-salamanca,2,2970.4,Madrid
+barrio-de-salamanca,3,4409.6,Madrid
+barrio-de-salamanca,Más de 3,5008.1,Madrid
+basurto-zorroza,0,990,Bilbao
+basurto-zorroza,1,988,Bilbao
+basurto-zorroza,2,1300,Bilbao
+basurto-zorroza,3,1510,Bilbao
+basurto-zorroza,Más de 3,1683.3,Bilbao
+begona-santutxu,0,800,Bilbao
+begona-santutxu,3,1277.9,Bilbao
+begona-santutxu,Más de 3,2000,Bilbao
+benalua-la-florida-babel-san-gabriel,0,865.7,NA
+benalua-la-florida-babel-san-gabriel,1,817.6,NA
+benalua-la-florida-babel-san-gabriel,2,988.3,NA
+benalua-la-florida-babel-san-gabriel,3,1257.2,NA
+benalua-la-florida-babel-san-gabriel,Más de 3,1182.5,NA
+campanillas,0,500,Málaga
+campanillas,1,800,Málaga
+campanillas,2,1134.4,Málaga
+campanillas,3,1370,Málaga
+campanillas,Más de 3,1450,Málaga
+campoamor-carolinas-altozano,0,761.7,NA
+campoamor-carolinas-altozano,1,908.6,NA
+campoamor-carolinas-altozano,2,997.9,NA
+campoamor-carolinas-altozano,3,1047.5,NA
+campoamor-carolinas-altozano,Más de 3,1420,NA
+carabanchel,0,1004.6,Madrid
+carabanchel,1,1096.3,Madrid
+carabanchel,2,1232,Madrid
+carabanchel,3,1218.8,Madrid
+carabanchel,Más de 3,2236.4,Madrid
+carretera-de-cadiz,0,890,Málaga
+carretera-de-cadiz,1,1584.2,Málaga
+carretera-de-cadiz,2,1355.9,Málaga
+carretera-de-cadiz,3,2422.8,Málaga
+carretera-de-cadiz,Más de 3,2249.6,Málaga
+casco-viejo,1,1346.7,Bilbao
+casco-viejo,2,1528.1,Bilbao
+casco-viejo,3,1485.7,Bilbao
+casco-viejo,Más de 3,3050,Bilbao
+centro,0,1269.4,NA
+centro,0,1269.4,Madrid
+centro,1,1659.6,NA
+centro,1,1659.6,Madrid
+centro,2,2400.9,NA
+centro,2,2400.9,Madrid
+centro,3,2636,NA
+centro,3,2636,Madrid
+centro,Más de 3,2741.3,NA
+centro,Más de 3,2741.3,Madrid
+centro-miraconcha,0,4450,San sebastián
+centro-miraconcha,1,1799.4,San sebastián
+centro-miraconcha,2,2302.1,San sebastián
+centro-miraconcha,3,3097.9,San sebastián
+centro-miraconcha,Más de 3,3630,San sebastián
+chamartin,0,1348.8,Madrid
+chamartin,1,1728.1,Madrid
+chamartin,2,2193.6,Madrid
+chamartin,3,2812.5,Madrid
+chamartin,Más de 3,4336.8,Madrid
+chamberi,0,1336.7,Madrid
+chamberi,1,1836,Madrid
+chamberi,2,2570.1,Madrid
+chamberi,3,3462.8,Madrid
+chamberi,Más de 3,4476.5,Madrid
+ciudad-lineal,0,1098.6,Madrid
+ciudad-lineal,1,1399.8,Madrid
+ciudad-lineal,2,1422,Madrid
+ciudad-lineal,3,1738.8,Madrid
+ciudad-lineal,Más de 3,2957.3,Madrid
+ciudad-vieja-centro,0,700,A Coruña
+ciudad-vieja-centro,1,855.3,A Coruña
+ciudad-vieja-centro,2,1127.7,A Coruña
+ciudad-vieja-centro,3,1357.3,A Coruña
+ciudad-vieja-centro,Más de 3,2180,A Coruña
+ciutat-vella,0,1494.1,Barcelona
+ciutat-vella,1,1708.8,Barcelona
+ciutat-vella,2,2181,Barcelona
+ciutat-vella,3,2796.6,Barcelona
+ciutat-vella,Más de 3,3316.4,Barcelona
+cuatro-caminos-plaza-de-la-cubela,0,525,A Coruña
+cuatro-caminos-plaza-de-la-cubela,1,776.7,A Coruña
+cuatro-caminos-plaza-de-la-cubela,2,1109,A Coruña
+cuatro-caminos-plaza-de-la-cubela,3,940.4,A Coruña
+cuatro-caminos-plaza-de-la-cubela,Más de 3,1303.1,A Coruña
+deusto,0,837.5,Bilbao
+deusto,1,1120,Bilbao
+deusto,2,1146.4,Bilbao
+deusto,3,1414.3,Bilbao
+deusto,Más de 3,1887.5,Bilbao
+egia,1,750,San sebastián
+egia,2,1498,San sebastián
+egia,3,1697.5,San sebastián
+egia,Más de 3,1900,San sebastián
+eiris,1,743.3,A Coruña
+eiris,2,805.3,A Coruña
+eiris,3,809,A Coruña
+eixample,0,1962.1,Barcelona
+eixample,1,2389.3,Barcelona
+eixample,2,2933.8,Barcelona
+eixample,3,3045,Barcelona
+eixample,Más de 3,4193.5,Barcelona
+elvina-a-zapateira,2,690,A Coruña
+ensanche-juan-florez,1,887.8,A Coruña
+ensanche-juan-florez,2,1044.7,A Coruña
+ensanche-juan-florez,3,1293.9,A Coruña
+ensanche-juan-florez,Más de 3,1472.9,A Coruña
+fuencarral,0,1460.6,Madrid
+fuencarral,1,1298.4,Madrid
+fuencarral,2,1483.3,Madrid
+fuencarral,3,1852.1,Madrid
+fuencarral,Más de 3,3374.8,Madrid
+gracia,0,1589.8,Barcelona
+gracia,1,1860.4,Barcelona
+gracia,2,2713,Barcelona
+gracia,3,3647,Barcelona
+gracia,Más de 3,2782.6,Barcelona
+gros,1,1420,San sebastián
+gros,2,1950,San sebastián
+gros,3,2383.3,San sebastián
+gros,Más de 3,3521.4,San sebastián
+horta-guinardo,0,1209.3,Barcelona
+horta-guinardo,1,1560.5,Barcelona
+horta-guinardo,2,1730.7,Barcelona
+horta-guinardo,3,1911.3,Barcelona
+horta-guinardo,Más de 3,3010.1,Barcelona
+hortaleza,0,1069.6,Madrid
+hortaleza,1,1350.4,Madrid
+hortaleza,2,1761.1,Madrid
+hortaleza,3,2076.3,Madrid
+hortaleza,Más de 3,3584.5,Madrid
+ibaeta,1,1915,San sebastián
+ibaeta,2,1400,San sebastián
+ibaeta,3,1600,San sebastián
+ibaeta,Más de 3,3200,San sebastián
+ibaiondo,0,750,Bilbao
+ibaiondo,1,1091.7,Bilbao
+ibaiondo,2,1212.9,Bilbao
+ibaiondo,3,1295.8,Bilbao
+ibaiondo,Más de 3,1770,Bilbao
+igeldo,1,1050,San sebastián
+igeldo,3,1650,San sebastián
+igeldo,Más de 3,6000,San sebastián
+indautxu,0,1180,Bilbao
+indautxu,1,1204.2,Bilbao
+indautxu,2,1378.5,Bilbao
+indautxu,3,1612.8,Bilbao
+indautxu,Más de 3,2181.2,Bilbao
+intxaurrondo,1,975,San sebastián
+intxaurrondo,2,1387.5,San sebastián
+intxaurrondo,3,2250,San sebastián
+latina,0,1095.3,Madrid
+latina,1,1103.8,Madrid
+latina,2,1299.8,Madrid
+latina,3,1363.8,Madrid
+latina,Más de 3,2050,Madrid
+les-corts,0,1680.8,Barcelona
+les-corts,1,1874.7,Barcelona
+les-corts,2,2557.9,Barcelona
+les-corts,3,2999.6,Barcelona
+les-corts,Más de 3,5361.5,Barcelona
+loiola-martutene,2,1100,San sebastián
+los-angeles-tombola-san-nicolas,0,475,NA
+los-angeles-tombola-san-nicolas,1,647.5,NA
+los-angeles-tombola-san-nicolas,2,917.9,NA
+los-angeles-tombola-san-nicolas,3,1184.4,NA
+los-angeles-tombola-san-nicolas,Más de 3,1437.5,NA
+los-castros-castrillon,1,730,A Coruña
+los-castros-castrillon,2,809.3,A Coruña
+los-castros-castrillon,3,940,A Coruña
+los-castros-castrillon,Más de 3,1000,A Coruña
+mesoiro,1,600,A Coruña
+mesoiro,3,815,A Coruña
+mesoiro,Más de 3,1647.5,A Coruña
+miramon-zorroaga,2,1250,San sebastián
+miramon-zorroaga,Más de 3,5000,San sebastián
+moncloa,0,1276.2,Madrid
+moncloa,1,1439.1,Madrid
+moncloa,2,2106.1,Madrid
+moncloa,3,2535.5,Madrid
+moncloa,Más de 3,4704.2,Madrid
+monte-alto-zalaeta-atocha,0,750,A Coruña
+monte-alto-zalaeta-atocha,1,793.3,A Coruña
+monte-alto-zalaeta-atocha,2,976.1,A Coruña
+monte-alto-zalaeta-atocha,3,1210.6,A Coruña
+monte-alto-zalaeta-atocha,Más de 3,1316.7,A Coruña
+moratalaz,0,1000,Madrid
+moratalaz,1,1025,Madrid
+moratalaz,2,1189.2,Madrid
+moratalaz,3,1213,Madrid
+moratalaz,Más de 3,1750,Madrid
+nou-barris,0,523,Barcelona
+nou-barris,1,1491.7,Barcelona
+nou-barris,2,1359.3,Barcelona
+nou-barris,3,1471,Barcelona
+nou-barris,Más de 3,1616.7,Barcelona
+os-mallos,0,799,A Coruña
+os-mallos,1,590,A Coruña
+os-mallos,2,703.3,A Coruña
+os-mallos,3,813,A Coruña
+os-mallos,Más de 3,700,A Coruña
+otxarkoaga-txurdinaga,3,1140,Bilbao
+parque-avenidas-vistahermosa,1,1000,NA
+parque-avenidas-vistahermosa,2,1131.8,NA
+parque-avenidas-vistahermosa,3,1387.8,NA
+parque-avenidas-vistahermosa,Más de 3,2650,NA
+parte-vieja,1,1641.7,San sebastián
+parte-vieja,2,2523.8,San sebastián
+parte-vieja,3,2365,San sebastián
+parte-vieja,Más de 3,2600,San sebastián
+pla-del-bon-repos-la-goteta-san-anton,0,1080,NA
+pla-del-bon-repos-la-goteta-san-anton,1,1242.7,NA
+pla-del-bon-repos-la-goteta-san-anton,2,1020.2,NA
+pla-del-bon-repos-la-goteta-san-anton,3,1243.2,NA
+pla-del-bon-repos-la-goteta-san-anton,Más de 3,1583.3,NA
+playa-de-san-juan-el-cabo,0,856.5,NA
+playa-de-san-juan-el-cabo,1,994.8,NA
+playa-de-san-juan-el-cabo,2,1422.4,NA
+playa-de-san-juan-el-cabo,3,1631,NA
+playa-de-san-juan-el-cabo,Más de 3,2655,NA
+puente-de-vallecas,0,874.5,Madrid
+puente-de-vallecas,1,978.7,Madrid
+puente-de-vallecas,2,1051.5,Madrid
+puente-de-vallecas,3,1180.3,Madrid
+rekalde,0,750,Bilbao
+rekalde,1,1000,Bilbao
+rekalde,2,1017.7,Bilbao
+rekalde,3,1207.5,Bilbao
+rekalde,Más de 3,1800,Bilbao
+retiro,0,1411.6,Madrid
+retiro,1,1709.8,Madrid
+retiro,2,2381.8,Madrid
+retiro,3,2907,Madrid
+retiro,Más de 3,3774.6,Madrid
+riazor-los-rosales,0,780,A Coruña
+riazor-los-rosales,1,766.1,A Coruña
+riazor-los-rosales,2,895.9,A Coruña
+riazor-los-rosales,3,1001.2,A Coruña
+riazor-los-rosales,Más de 3,1225,A Coruña
+sagrada-familia,1,725,A Coruña
+sagrada-familia,2,1290,A Coruña
+sagrada-familia,3,900,A Coruña
+sagrada-familia,Más de 3,1150,A Coruña
+san-blas,0,991,Madrid
+san-blas,1,1062.5,Madrid
+san-blas,2,1242,Madrid
+san-blas,3,1316.4,Madrid
+san-blas,Más de 3,2871.2,Madrid
+san-blas-pau,0,705,NA
+san-blas-pau,1,889,NA
+san-blas-pau,2,982.6,NA
+san-blas-pau,3,1137.1,NA
+san-blas-pau,Más de 3,929.3,NA
+san-ignacio,3,1350,Bilbao
+sant-andreu,0,1750.2,Barcelona
+sant-andreu,1,1316.3,Barcelona
+sant-andreu,2,1678.6,Barcelona
+sant-andreu,3,1678,Barcelona
+sant-andreu,Más de 3,1781.7,Barcelona
+sant-marti,0,1808.6,Barcelona
+sant-marti,1,1989.5,Barcelona
+sant-marti,2,2380.6,Barcelona
+sant-marti,3,3253.2,Barcelona
+sant-marti,Más de 3,4912.9,Barcelona
+sants-montjuic,0,1320.3,Barcelona
+sants-montjuic,1,1498.7,Barcelona
+sants-montjuic,2,1747.4,Barcelona
+sants-montjuic,3,2032.7,Barcelona
+sants-montjuic,Más de 3,2855.5,Barcelona
+sarria-sant-gervasi,0,1223.6,Barcelona
+sarria-sant-gervasi,1,2116.5,Barcelona
+sarria-sant-gervasi,2,2786.1,Barcelona
+sarria-sant-gervasi,3,3552.7,Barcelona
+sarria-sant-gervasi,Más de 3,5080.5,Barcelona
+someso-matogrande,0,615,A Coruña
+someso-matogrande,1,705.5,A Coruña
+someso-matogrande,2,731.2,A Coruña
+someso-matogrande,3,900.8,A Coruña
+someso-matogrande,Más de 3,1028,A Coruña
+uribarri,1,1191.7,Bilbao
+uribarri,2,1285,Bilbao
+uribarri,3,1272.1,Bilbao
+usera,0,1124.2,Madrid
+usera,1,1142.7,Madrid
+usera,2,1125.3,Madrid
+usera,3,1246.7,Madrid
+usera,Más de 3,2091.7,Madrid
+vicalvaro,1,1114.2,Madrid
+vicalvaro,2,1266.8,Madrid
+vicalvaro,3,1364.2,Madrid
+vicalvaro,Más de 3,1719.2,Madrid
+villa-de-vallecas,0,1039.6,Madrid
+villa-de-vallecas,1,986,Madrid
+villa-de-vallecas,2,1167.6,Madrid
+villa-de-vallecas,3,1249.1,Madrid
+villa-de-vallecas,Más de 3,2250,Madrid
+villafranqueza-santa-faz-monegre,0,1150,NA
+villafranqueza-santa-faz-monegre,1,850,NA
+villafranqueza-santa-faz-monegre,2,875,NA
+villafranqueza-santa-faz-monegre,3,1111.7,NA
+villafranqueza-santa-faz-monegre,Más de 3,3600,NA
+villaverde,0,1014.7,Madrid
+villaverde,1,992.3,Madrid
+villaverde,2,1019.4,Madrid
+villaverde,3,1045,Madrid
+viono,1,630,A Coruña
+viono,2,805,A Coruña
+viono,3,1000,A Coruña
+virgen-del-remedio-juan-xxiii,0,800,NA
+virgen-del-remedio-juan-xxiii,2,1000,NA
+virgen-del-remedio-juan-xxiii,3,1203.6,NA
+virgen-del-remedio-juan-xxiii,Más de 3,2112.5,NA

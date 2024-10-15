@@ -1,0 +1,84 @@
+barrio,city,price_sqm,total
+eixample,Barcelona,33.97877382389505,1142
+sant-marti,Barcelona,31.591116887436367,341
+gracia,Barcelona,31.533648915057846,261
+barrio-de-salamanca,Madrid,31.296105100405537,946
+ciutat-vella,Barcelona,31.052345685950385,1066
+centro,Madrid,30.258966578325758,1316
+chamberi,Madrid,29.542384063579984,767
+les-corts,Barcelona,29.29371130399966,158
+sarria-sant-gervasi,Barcelona,28.896927472733207,513
+sants-montjuic,Barcelona,27.715917983102038,228
+centro-miraconcha,San sebastián,26.66934487920945,95
+miramon-zorroaga,San sebastián,26.33101851851852,2
+retiro,Madrid,26.0705038467495,365
+sant-andreu,Barcelona,25.371539690341276,43
+intxaurrondo,San sebastián,25.262700534759357,4
+chamartin,Madrid,24.948674236448195,481
+gros,San sebastián,24.817924565593042,43
+parte-vieja,San sebastián,23.780883576615345,21
+arganzuela,Madrid,23.426397888635552,324
+moncloa,Madrid,22.82863369236575,307
+horta-guinardo,Barcelona,22.144814797680738,92
+usera,Madrid,22.04957799581632,88
+latina,Madrid,21.004726311536118,141
+nou-barris,Barcelona,20.942367541378893,37
+ciudad-lineal,Madrid,20.60008126551493,272
+igeldo,San sebastián,20.45038862500771,3
+hortaleza,Madrid,20.051874418019064,268
+carabanchel,Madrid,20.038164580992664,167
+antiguo,San sebastián,20.036685274087063,28
+ibaeta,San sebastián,19.859551176792557,7
+amara,San sebastián,19.81986302107143,30
+egia,San sebastián,19.65594960286476,9
+puente-de-vallecas,Madrid,18.5155068510438,119
+carretera-de-cadiz,Málaga,18.3384618627427,118
+casco-viejo,Bilbao,18.13886390217296,26
+fuencarral,Madrid,18.100550551005767,229
+abando-albia,Bilbao,17.608584014245455,117
+otxarkoaga-txurdinaga,Bilbao,17.441561198047484,5
+basurto-zorroza,Bilbao,17.326055601149154,21
+san-blas,Madrid,17.21460287731561,145
+indautxu,Bilbao,16.933015839539326,68
+ibaiondo,Bilbao,16.93094873889239,22
+villa-de-vallecas,Madrid,16.68065348411681,63
+barajas,Madrid,16.66348471921568,51
+villaverde,Madrid,16.64791867033942,119
+uribarri,Bilbao,16.536843137493936,28
+moratalaz,Madrid,16.4043495534206,20
+aiete,San sebastián,16.249752642035062,15
+rekalde,Bilbao,15.946491064833944,37
+deusto,Bilbao,15.862285419097224,27
+altza-bidebieta,San sebastián,15.853788209825362,11
+vicalvaro,Madrid,15.709724184178619,77
+playa-de-san-juan-el-cabo,NA,15.396139594548336,460
+bailen-miraflores,Málaga,14.88331072540534,101
+ategorrieta-ulia,San sebastián,14.412698412698413,3
+centro,NA,14.127812897407555,321
+begona-santutxu,Bilbao,14.124809484243446,10
+pla-del-bon-repos-la-goteta-san-anton,NA,14.043048493687278,61
+ciudad-vieja-centro,A Coruña,13.625677585032248,54
+san-ignacio,Bilbao,13.514030612244898,4
+campanillas,Málaga,12.964954359366125,25
+los-angeles-tombola-san-nicolas,NA,12.792099914363959,25
+benalua-la-florida-babel-san-gabriel,NA,12.580858825555069,125
+cuatro-caminos-plaza-de-la-cubela,A Coruña,12.56718174299709,45
+san-blas-pau,NA,12.370932157094066,63
+campoamor-carolinas-altozano,NA,12.341326854972756,109
+monte-alto-zalaeta-atocha,A Coruña,12.231074285712756,53
+loiola-martutene,San sebastián,12.222222222222221,1
+ensanche-juan-florez,A Coruña,11.885372980236259,117
+riazor-los-rosales,A Coruña,11.630610660397048,36
+villafranqueza-santa-faz-monegre,NA,11.598412321662638,15
+parque-avenidas-vistahermosa,NA,11.542674945791102,42
+eiris,A Coruña,10.98188173357944,23
+sagrada-familia,A Coruña,10.92328225919067,9
+viono,A Coruña,10.912178771049739,6
+os-mallos,A Coruña,10.588113708573657,23
+los-castros-castrillon,A Coruña,10.40943787806998,31
+someso-matogrande,A Coruña,10.251200813312376,42
+anorga,San sebastián,9.851851851851851,2
+agra-del-orzan-ventorrillo,A Coruña,9.805889836199562,40
+virgen-del-remedio-juan-xxiii,NA,9.335872701943275,17
+elvina-a-zapateira,A Coruña,8.214285714285714,1
+mesoiro,A Coruña,7.485809171609285,5

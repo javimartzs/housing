@@ -1,0 +1,961 @@
+barrio,habs,ascensor,price,city
+abando-albia,0,TRUE,1400,bilbao
+abando-albia,1,FALSE,810,bilbao
+abando-albia,1,TRUE,1240,bilbao
+abando-albia,2,FALSE,1250,bilbao
+abando-albia,2,TRUE,1696.2,bilbao
+abando-albia,3,FALSE,3000,bilbao
+abando-albia,3,TRUE,2152.2,bilbao
+abando-albia,Más de 3,TRUE,2556.8,bilbao
+agra-del-orzan-ventorrillo,0,FALSE,670,a-coruna
+agra-del-orzan-ventorrillo,0,TRUE,750,a-coruna
+agra-del-orzan-ventorrillo,2,FALSE,675,a-coruna
+agra-del-orzan-ventorrillo,2,TRUE,838.3,a-coruna
+agra-del-orzan-ventorrillo,3,FALSE,787.5,a-coruna
+agra-del-orzan-ventorrillo,3,TRUE,897.8,a-coruna
+agra-del-orzan-ventorrillo,Más de 3,FALSE,1275,a-coruna
+agra-del-orzan-ventorrillo,Más de 3,TRUE,984,a-coruna
+aiete,1,TRUE,1250,donostia-san-sebastian
+aiete,2,FALSE,1283.3,donostia-san-sebastian
+aiete,2,TRUE,1500,donostia-san-sebastian
+aiete,3,FALSE,1400,donostia-san-sebastian
+aiete,3,TRUE,1775,donostia-san-sebastian
+aiete,Más de 3,TRUE,1500,donostia-san-sebastian
+algiros,0,FALSE,1073,valencia
+algiros,0,TRUE,1030,valencia
+algiros,1,FALSE,1200,valencia
+algiros,1,TRUE,1298.2,valencia
+algiros,2,TRUE,1407.1,valencia
+algiros,3,TRUE,1377.5,valencia
+algiros,Más de 3,FALSE,1600,valencia
+algiros,Más de 3,TRUE,1626.7,valencia
+altza-bidebieta,2,FALSE,1300,donostia-san-sebastian
+altza-bidebieta,2,TRUE,1650,donostia-san-sebastian
+altza-bidebieta,3,FALSE,1200,donostia-san-sebastian
+altza-bidebieta,3,TRUE,1500,donostia-san-sebastian
+altza-bidebieta,Más de 3,FALSE,3200,donostia-san-sebastian
+altza-bidebieta,Más de 3,TRUE,2600,donostia-san-sebastian
+amara,1,TRUE,1080,donostia-san-sebastian
+amara,2,TRUE,1511.2,donostia-san-sebastian
+amara,3,TRUE,1720.8,donostia-san-sebastian
+anorga,3,FALSE,2800,donostia-san-sebastian
+antiguo,1,TRUE,1200,donostia-san-sebastian
+antiguo,2,FALSE,1780,donostia-san-sebastian
+antiguo,2,TRUE,1846.9,donostia-san-sebastian
+antiguo,3,FALSE,1300,donostia-san-sebastian
+antiguo,3,TRUE,2186,donostia-san-sebastian
+antiguo,Más de 3,TRUE,2533.3,donostia-san-sebastian
+arganzuela,0,FALSE,1283.3,madrid
+arganzuela,0,TRUE,1243.2,madrid
+arganzuela,1,FALSE,1255.9,madrid
+arganzuela,1,TRUE,1387,madrid
+arganzuela,2,FALSE,1376.1,madrid
+arganzuela,2,TRUE,1661.5,madrid
+arganzuela,3,FALSE,1525,madrid
+arganzuela,3,TRUE,1981.5,madrid
+arganzuela,Más de 3,TRUE,3990,madrid
+ategorrieta-ulia,0,FALSE,950,donostia-san-sebastian
+ategorrieta-ulia,2,FALSE,1600,donostia-san-sebastian
+ategorrieta-ulia,Más de 3,FALSE,2900,donostia-san-sebastian
+bailen-miraflores,0,FALSE,1400,malaga
+bailen-miraflores,0,TRUE,760,malaga
+bailen-miraflores,1,FALSE,726.7,malaga
+bailen-miraflores,1,TRUE,960.3,malaga
+bailen-miraflores,2,FALSE,997.1,malaga
+bailen-miraflores,2,TRUE,1037.6,malaga
+bailen-miraflores,3,FALSE,1073,malaga
+bailen-miraflores,3,TRUE,1207.7,malaga
+bailen-miraflores,Más de 3,FALSE,1800,malaga
+bailen-miraflores,Más de 3,TRUE,1100,malaga
+barajas,0,TRUE,850,madrid
+barajas,1,FALSE,1250,madrid
+barajas,1,TRUE,1118.9,madrid
+barajas,2,FALSE,942.5,madrid
+barajas,2,TRUE,1438.1,madrid
+barajas,3,FALSE,1500,madrid
+barajas,3,TRUE,1902.1,madrid
+barajas,Más de 3,FALSE,3218.8,madrid
+barajas,Más de 3,TRUE,1883.3,madrid
+barrio-de-salamanca,0,FALSE,1072.5,madrid
+barrio-de-salamanca,0,TRUE,1347.3,madrid
+barrio-de-salamanca,1,FALSE,1882.3,madrid
+barrio-de-salamanca,1,TRUE,1988.4,madrid
+barrio-de-salamanca,2,FALSE,2018.3,madrid
+barrio-de-salamanca,2,TRUE,3035.3,madrid
+barrio-de-salamanca,3,FALSE,4031.7,madrid
+barrio-de-salamanca,3,TRUE,4409,madrid
+barrio-de-salamanca,Más de 3,FALSE,6142.5,madrid
+barrio-de-salamanca,Más de 3,TRUE,5046.1,madrid
+basurto-zorroza,0,TRUE,990,bilbao
+basurto-zorroza,1,TRUE,1010,bilbao
+basurto-zorroza,2,TRUE,1300,bilbao
+basurto-zorroza,3,FALSE,1700,bilbao
+basurto-zorroza,3,TRUE,1397.5,bilbao
+basurto-zorroza,Más de 3,TRUE,1683.3,bilbao
+begona-santutxu,0,TRUE,800,bilbao
+begona-santutxu,3,TRUE,1371.6,bilbao
+begona-santutxu,Más de 3,TRUE,2000,bilbao
+bellavista-jardines-de-hercules,0,FALSE,650,sevilla
+bellavista-jardines-de-hercules,1,FALSE,750,sevilla
+bellavista-jardines-de-hercules,2,FALSE,870,sevilla
+bellavista-jardines-de-hercules,2,TRUE,700,sevilla
+bellavista-jardines-de-hercules,3,FALSE,760,sevilla
+bellavista-jardines-de-hercules,3,TRUE,877.1,sevilla
+benicalap,0,FALSE,840,valencia
+benicalap,0,TRUE,892,valencia
+benicalap,1,FALSE,750,valencia
+benicalap,1,TRUE,1012.8,valencia
+benicalap,2,FALSE,850,valencia
+benicalap,2,TRUE,1127.2,valencia
+benicalap,3,FALSE,1093.5,valencia
+benicalap,3,TRUE,1220.8,valencia
+benicalap,Más de 3,TRUE,1100,valencia
+benimaclet,0,FALSE,1107.5,valencia
+benimaclet,0,TRUE,789,valencia
+benimaclet,1,TRUE,1100,valencia
+benimaclet,2,TRUE,1075,valencia
+benimaclet,3,FALSE,1100,valencia
+benimaclet,3,TRUE,1359.6,valencia
+benimaclet,Más de 3,FALSE,1700,valencia
+benimaclet,Más de 3,TRUE,1448.9,valencia
+camins-al-grau,0,FALSE,800,valencia
+camins-al-grau,0,TRUE,946,valencia
+camins-al-grau,1,FALSE,966.7,valencia
+camins-al-grau,1,TRUE,1336.1,valencia
+camins-al-grau,2,FALSE,1338.9,valencia
+camins-al-grau,2,TRUE,1432.5,valencia
+camins-al-grau,3,FALSE,1284,valencia
+camins-al-grau,3,TRUE,1864.4,valencia
+camins-al-grau,Más de 3,FALSE,1250,valencia
+camins-al-grau,Más de 3,TRUE,2066.7,valencia
+campanar,1,FALSE,1100,valencia
+campanar,1,TRUE,1175,valencia
+campanar,2,FALSE,1291.7,valencia
+campanar,2,TRUE,1563.3,valencia
+campanar,3,FALSE,1483.3,valencia
+campanar,3,TRUE,1767.9,valencia
+campanar,Más de 3,TRUE,1442.1,valencia
+campanillas,0,FALSE,500,malaga
+campanillas,1,FALSE,820,malaga
+campanillas,1,TRUE,766.7,malaga
+campanillas,2,FALSE,891.7,malaga
+campanillas,2,TRUE,1280,malaga
+campanillas,3,FALSE,1276,malaga
+campanillas,Más de 3,FALSE,1450,malaga
+carabanchel,0,FALSE,1012,madrid
+carabanchel,0,TRUE,972.5,madrid
+carabanchel,1,FALSE,1257,madrid
+carabanchel,1,TRUE,1019.2,madrid
+carabanchel,2,FALSE,1081.1,madrid
+carabanchel,2,TRUE,1267.8,madrid
+carabanchel,3,FALSE,1078.9,madrid
+carabanchel,3,TRUE,1349.8,madrid
+carabanchel,Más de 3,FALSE,3750,madrid
+carabanchel,Más de 3,TRUE,1756.2,madrid
+carretera-de-cadiz,0,FALSE,618,malaga
+carretera-de-cadiz,0,TRUE,1022.5,malaga
+carretera-de-cadiz,1,FALSE,903,malaga
+carretera-de-cadiz,1,TRUE,1642.2,malaga
+carretera-de-cadiz,2,FALSE,1075,malaga
+carretera-de-cadiz,2,TRUE,1423.4,malaga
+carretera-de-cadiz,3,FALSE,1475,malaga
+carretera-de-cadiz,3,TRUE,2153.9,malaga
+carretera-de-cadiz,Más de 3,TRUE,2171.5,malaga
+casco-viejo,1,FALSE,1345,bilbao
+casco-viejo,1,TRUE,1462.5,bilbao
+casco-viejo,2,FALSE,1500,bilbao
+casco-viejo,2,TRUE,1556.2,bilbao
+casco-viejo,3,FALSE,1450,bilbao
+casco-viejo,3,TRUE,1512.5,bilbao
+casco-viejo,Más de 3,TRUE,3050,bilbao
+centro,0,FALSE,1154.8,madrid
+centro,0,FALSE,1154.8,malaga
+centro,0,FALSE,1154.8,sevilla
+centro,0,TRUE,1230.7,madrid
+centro,0,TRUE,1230.7,malaga
+centro,0,TRUE,1230.7,sevilla
+centro,1,FALSE,1306.8,madrid
+centro,1,FALSE,1306.8,malaga
+centro,1,FALSE,1306.8,sevilla
+centro,1,TRUE,1611.2,madrid
+centro,1,TRUE,1611.2,malaga
+centro,1,TRUE,1611.2,sevilla
+centro,2,FALSE,1652.1,madrid
+centro,2,FALSE,1652.1,malaga
+centro,2,FALSE,1652.1,sevilla
+centro,2,TRUE,2376.3,madrid
+centro,2,TRUE,2376.3,malaga
+centro,2,TRUE,2376.3,sevilla
+centro,3,FALSE,1879.4,madrid
+centro,3,FALSE,1879.4,malaga
+centro,3,FALSE,1879.4,sevilla
+centro,3,TRUE,2594.7,madrid
+centro,3,TRUE,2594.7,malaga
+centro,3,TRUE,2594.7,sevilla
+centro,Más de 3,FALSE,2538.2,madrid
+centro,Más de 3,FALSE,2538.2,malaga
+centro,Más de 3,FALSE,2538.2,sevilla
+centro,Más de 3,TRUE,2892.4,madrid
+centro,Más de 3,TRUE,2892.4,malaga
+centro,Más de 3,TRUE,2892.4,sevilla
+centro-miraconcha,0,TRUE,4450,donostia-san-sebastian
+centro-miraconcha,1,FALSE,3250,donostia-san-sebastian
+centro-miraconcha,1,TRUE,1581.4,donostia-san-sebastian
+centro-miraconcha,2,FALSE,1720.8,donostia-san-sebastian
+centro-miraconcha,2,TRUE,2397.7,donostia-san-sebastian
+centro-miraconcha,3,FALSE,3910,donostia-san-sebastian
+centro-miraconcha,3,TRUE,3004.5,donostia-san-sebastian
+centro-miraconcha,Más de 3,TRUE,3630,donostia-san-sebastian
+cerro-amate,0,FALSE,575,sevilla
+cerro-amate,1,FALSE,555,sevilla
+cerro-amate,1,TRUE,850,sevilla
+cerro-amate,2,FALSE,705.7,sevilla
+cerro-amate,2,TRUE,889.1,sevilla
+cerro-amate,3,FALSE,838.2,sevilla
+cerro-amate,3,TRUE,825,sevilla
+cerro-amate,Más de 3,FALSE,1133.3,sevilla
+cerro-amate,Más de 3,TRUE,1000,sevilla
+chamartin,0,FALSE,1213.1,madrid
+chamartin,0,TRUE,1315.4,madrid
+chamartin,1,FALSE,1679,madrid
+chamartin,1,TRUE,1724.8,madrid
+chamartin,2,FALSE,2084.5,madrid
+chamartin,2,TRUE,2190.3,madrid
+chamartin,3,FALSE,1547.5,madrid
+chamartin,3,TRUE,2888.7,madrid
+chamartin,Más de 3,FALSE,6325,madrid
+chamartin,Más de 3,TRUE,4171.5,madrid
+chamberi,0,FALSE,1257.1,madrid
+chamberi,0,TRUE,1351.2,madrid
+chamberi,1,FALSE,1569,madrid
+chamberi,1,TRUE,1901.2,madrid
+chamberi,2,FALSE,2093.6,madrid
+chamberi,2,TRUE,2578.5,madrid
+chamberi,3,FALSE,1922.5,madrid
+chamberi,3,TRUE,3555.8,madrid
+chamberi,Más de 3,FALSE,4050,madrid
+chamberi,Más de 3,TRUE,4378.5,madrid
+churriana,0,TRUE,800,malaga
+churriana,1,FALSE,1100,malaga
+churriana,1,TRUE,1500,malaga
+churriana,2,FALSE,1540,malaga
+churriana,2,TRUE,1233.3,malaga
+churriana,3,FALSE,1630,malaga
+churriana,3,TRUE,1408,malaga
+churriana,Más de 3,FALSE,2633.3,malaga
+ciudad-jardin,0,FALSE,550,malaga
+ciudad-jardin,1,FALSE,500,malaga
+ciudad-jardin,2,FALSE,733.3,malaga
+ciudad-jardin,2,TRUE,998.3,malaga
+ciudad-jardin,3,FALSE,960,malaga
+ciudad-jardin,3,TRUE,1177.5,malaga
+ciudad-jardin,Más de 3,FALSE,1547.5,malaga
+ciudad-jardin,Más de 3,TRUE,1200,malaga
+ciudad-lineal,0,FALSE,1034.7,madrid
+ciudad-lineal,0,TRUE,1478.2,madrid
+ciudad-lineal,1,FALSE,1405.3,madrid
+ciudad-lineal,1,TRUE,1417.4,madrid
+ciudad-lineal,2,FALSE,1350.7,madrid
+ciudad-lineal,2,TRUE,1448.9,madrid
+ciudad-lineal,3,FALSE,1770,madrid
+ciudad-lineal,3,TRUE,1700.3,madrid
+ciudad-lineal,Más de 3,FALSE,3720,madrid
+ciudad-lineal,Más de 3,TRUE,2842.6,madrid
+ciudad-vieja-centro,0,FALSE,700,a-coruna
+ciudad-vieja-centro,1,FALSE,875.7,a-coruna
+ciudad-vieja-centro,1,TRUE,835.8,a-coruna
+ciudad-vieja-centro,2,FALSE,910,a-coruna
+ciudad-vieja-centro,2,TRUE,1209.4,a-coruna
+ciudad-vieja-centro,3,FALSE,1100,a-coruna
+ciudad-vieja-centro,3,TRUE,1453.8,a-coruna
+ciudad-vieja-centro,Más de 3,FALSE,1250,a-coruna
+ciudad-vieja-centro,Más de 3,TRUE,2412.5,a-coruna
+ciutat-antigua,0,FALSE,990,palma-de-mallorca
+ciutat-antigua,0,TRUE,1500,palma-de-mallorca
+ciutat-antigua,1,FALSE,1558.5,palma-de-mallorca
+ciutat-antigua,1,TRUE,1655,palma-de-mallorca
+ciutat-antigua,2,FALSE,2176.7,palma-de-mallorca
+ciutat-antigua,2,TRUE,2171,palma-de-mallorca
+ciutat-antigua,3,FALSE,2678.6,palma-de-mallorca
+ciutat-antigua,3,TRUE,2721.7,palma-de-mallorca
+ciutat-antigua,Más de 3,FALSE,3540,palma-de-mallorca
+ciutat-antigua,Más de 3,TRUE,2991.2,palma-de-mallorca
+ciutat-vella,0,FALSE,1413.3,barcelona
+ciutat-vella,0,FALSE,1413.3,valencia
+ciutat-vella,0,TRUE,1425.9,barcelona
+ciutat-vella,0,TRUE,1425.9,valencia
+ciutat-vella,1,FALSE,1514.6,barcelona
+ciutat-vella,1,FALSE,1514.6,valencia
+ciutat-vella,1,TRUE,1887.7,barcelona
+ciutat-vella,1,TRUE,1887.7,valencia
+ciutat-vella,2,FALSE,1830.3,barcelona
+ciutat-vella,2,FALSE,1830.3,valencia
+ciutat-vella,2,TRUE,2312.7,barcelona
+ciutat-vella,2,TRUE,2312.7,valencia
+ciutat-vella,3,FALSE,1934.3,barcelona
+ciutat-vella,3,FALSE,1934.3,valencia
+ciutat-vella,3,TRUE,2626.6,barcelona
+ciutat-vella,3,TRUE,2626.6,valencia
+ciutat-vella,Más de 3,FALSE,2950.5,barcelona
+ciutat-vella,Más de 3,FALSE,2950.5,valencia
+ciutat-vella,Más de 3,TRUE,2941.1,barcelona
+ciutat-vella,Más de 3,TRUE,2941.1,valencia
+cruz-de-humilladero,0,FALSE,931.2,malaga
+cruz-de-humilladero,0,TRUE,1000,malaga
+cruz-de-humilladero,1,TRUE,982.7,malaga
+cruz-de-humilladero,2,FALSE,1010,malaga
+cruz-de-humilladero,2,TRUE,1184.9,malaga
+cruz-de-humilladero,3,FALSE,1322.7,malaga
+cruz-de-humilladero,3,TRUE,1341.6,malaga
+cruz-de-humilladero,Más de 3,FALSE,1333.3,malaga
+cruz-de-humilladero,Más de 3,TRUE,1510,malaga
+cuatro-caminos-plaza-de-la-cubela,0,TRUE,525,a-coruna
+cuatro-caminos-plaza-de-la-cubela,1,FALSE,900,a-coruna
+cuatro-caminos-plaza-de-la-cubela,1,TRUE,715,a-coruna
+cuatro-caminos-plaza-de-la-cubela,2,TRUE,1109,a-coruna
+cuatro-caminos-plaza-de-la-cubela,3,TRUE,956.2,a-coruna
+cuatro-caminos-plaza-de-la-cubela,Más de 3,FALSE,1195,a-coruna
+cuatro-caminos-plaza-de-la-cubela,Más de 3,TRUE,1318.6,a-coruna
+deusto,0,FALSE,800,bilbao
+deusto,0,TRUE,875,bilbao
+deusto,1,FALSE,1280,bilbao
+deusto,1,TRUE,1040,bilbao
+deusto,2,FALSE,1375,bilbao
+deusto,2,TRUE,1108.3,bilbao
+deusto,3,TRUE,1478.6,bilbao
+deusto,Más de 3,FALSE,1600,bilbao
+deusto,Más de 3,TRUE,1928.6,bilbao
+egia,1,FALSE,750,donostia-san-sebastian
+egia,2,FALSE,1300,donostia-san-sebastian
+egia,2,TRUE,1547.5,donostia-san-sebastian
+egia,3,TRUE,1697.5,donostia-san-sebastian
+egia,Más de 3,TRUE,1900,donostia-san-sebastian
+eiris,1,TRUE,743.3,a-coruna
+eiris,2,FALSE,770,a-coruna
+eiris,2,TRUE,823,a-coruna
+eiris,3,TRUE,809,a-coruna
+eixample,0,FALSE,1829,barcelona
+eixample,0,TRUE,1970.5,barcelona
+eixample,1,FALSE,2104.9,barcelona
+eixample,1,TRUE,2470.2,barcelona
+eixample,2,FALSE,2715.8,barcelona
+eixample,2,TRUE,2943.5,barcelona
+eixample,3,FALSE,3048.6,barcelona
+eixample,3,TRUE,3020.8,barcelona
+eixample,Más de 3,FALSE,3893.8,barcelona
+eixample,Más de 3,TRUE,4199,barcelona
+el-pla-del-real,0,TRUE,1100,valencia
+el-pla-del-real,1,TRUE,1206.2,valencia
+el-pla-del-real,2,FALSE,1600,valencia
+el-pla-del-real,2,TRUE,1368.1,valencia
+el-pla-del-real,3,TRUE,2390.1,valencia
+el-pla-del-real,Más de 3,TRUE,2175,valencia
+elvina-a-zapateira,2,TRUE,690,a-coruna
+ensanche-juan-florez,0,FALSE,745,a-coruna
+ensanche-juan-florez,1,FALSE,1190,a-coruna
+ensanche-juan-florez,1,TRUE,854.2,a-coruna
+ensanche-juan-florez,2,FALSE,877.5,a-coruna
+ensanche-juan-florez,2,TRUE,1045.2,a-coruna
+ensanche-juan-florez,3,FALSE,1092.5,a-coruna
+ensanche-juan-florez,3,TRUE,1329.4,a-coruna
+ensanche-juan-florez,Más de 3,FALSE,1400,a-coruna
+ensanche-juan-florez,Más de 3,TRUE,1448,a-coruna
+es-forti-son-cotoner-son-dameto,1,TRUE,1266.7,palma-de-mallorca
+es-forti-son-cotoner-son-dameto,2,FALSE,2020,palma-de-mallorca
+es-forti-son-cotoner-son-dameto,2,TRUE,1730,palma-de-mallorca
+es-forti-son-cotoner-son-dameto,3,FALSE,1750,palma-de-mallorca
+es-forti-son-cotoner-son-dameto,3,TRUE,1887.1,palma-de-mallorca
+es-forti-son-cotoner-son-dameto,Más de 3,FALSE,2500,palma-de-mallorca
+es-forti-son-cotoner-son-dameto,Más de 3,TRUE,1985,palma-de-mallorca
+establiments-son-sardina,1,FALSE,1000,palma-de-mallorca
+establiments-son-sardina,3,FALSE,2900,palma-de-mallorca
+establiments-son-sardina,Más de 3,FALSE,6250,palma-de-mallorca
+este,0,FALSE,1062.5,malaga
+este,0,TRUE,886,malaga
+este,1,FALSE,1109,malaga
+este,1,TRUE,1237.1,malaga
+este,2,FALSE,1605.8,malaga
+este,2,TRUE,1696.9,malaga
+este,3,FALSE,2179.2,malaga
+este,3,TRUE,1984,malaga
+este,Más de 3,FALSE,3499.5,malaga
+este,Más de 3,TRUE,2560.7,malaga
+extramurs,0,FALSE,1100,valencia
+extramurs,0,TRUE,1145,valencia
+extramurs,1,FALSE,1291.5,valencia
+extramurs,1,TRUE,1404.8,valencia
+extramurs,2,FALSE,1499.9,valencia
+extramurs,2,TRUE,1557.6,valencia
+extramurs,3,FALSE,1900,valencia
+extramurs,3,TRUE,1781.5,valencia
+extramurs,Más de 3,TRUE,1923.3,valencia
+fuencarral,0,FALSE,961,madrid
+fuencarral,0,TRUE,1869,madrid
+fuencarral,1,FALSE,1000,madrid
+fuencarral,1,TRUE,1318.4,madrid
+fuencarral,2,FALSE,1264.3,madrid
+fuencarral,2,TRUE,1544.9,madrid
+fuencarral,3,FALSE,1858.3,madrid
+fuencarral,3,TRUE,1875.3,madrid
+fuencarral,Más de 3,FALSE,4505.7,madrid
+fuencarral,Más de 3,TRUE,2798.1,madrid
+genova-bonanova-sant-agusti,0,FALSE,1203.3,palma-de-mallorca
+genova-bonanova-sant-agusti,0,TRUE,1038.9,palma-de-mallorca
+genova-bonanova-sant-agusti,1,FALSE,1275,palma-de-mallorca
+genova-bonanova-sant-agusti,1,TRUE,1413.6,palma-de-mallorca
+genova-bonanova-sant-agusti,2,FALSE,2653.3,palma-de-mallorca
+genova-bonanova-sant-agusti,2,TRUE,2044.4,palma-de-mallorca
+genova-bonanova-sant-agusti,3,FALSE,3422.2,palma-de-mallorca
+genova-bonanova-sant-agusti,3,TRUE,2658.3,palma-de-mallorca
+genova-bonanova-sant-agusti,Más de 3,FALSE,3666.7,palma-de-mallorca
+genova-bonanova-sant-agusti,Más de 3,TRUE,3050,palma-de-mallorca
+gracia,0,FALSE,1735.5,barcelona
+gracia,0,TRUE,1538.9,barcelona
+gracia,1,FALSE,1566.9,barcelona
+gracia,1,TRUE,2074.3,barcelona
+gracia,2,FALSE,2662.8,barcelona
+gracia,2,TRUE,2636.2,barcelona
+gracia,3,FALSE,4206.1,barcelona
+gracia,3,TRUE,3234.2,barcelona
+gracia,Más de 3,FALSE,3011.7,barcelona
+gracia,Más de 3,TRUE,2690.9,barcelona
+gros,1,FALSE,1500,donostia-san-sebastian
+gros,1,TRUE,1400,donostia-san-sebastian
+gros,2,TRUE,1950,donostia-san-sebastian
+gros,3,TRUE,2383.3,donostia-san-sebastian
+gros,Más de 3,TRUE,3521.4,donostia-san-sebastian
+horta-guinardo,0,FALSE,1239,barcelona
+horta-guinardo,0,TRUE,1090,barcelona
+horta-guinardo,1,FALSE,1558.3,barcelona
+horta-guinardo,1,TRUE,1783.3,barcelona
+horta-guinardo,2,FALSE,1820,barcelona
+horta-guinardo,2,TRUE,1568.1,barcelona
+horta-guinardo,3,FALSE,2397.5,barcelona
+horta-guinardo,3,TRUE,1625.6,barcelona
+horta-guinardo,Más de 3,FALSE,3138.3,barcelona
+horta-guinardo,Más de 3,TRUE,2416.2,barcelona
+hortaleza,0,FALSE,925,madrid
+hortaleza,0,TRUE,1097.8,madrid
+hortaleza,1,FALSE,1155,madrid
+hortaleza,1,TRUE,1358.7,madrid
+hortaleza,2,FALSE,2215,madrid
+hortaleza,2,TRUE,1723.7,madrid
+hortaleza,3,FALSE,1895,madrid
+hortaleza,3,TRUE,2069.5,madrid
+hortaleza,Más de 3,FALSE,5200,madrid
+hortaleza,Más de 3,TRUE,2720,madrid
+ibaeta,1,TRUE,1915,donostia-san-sebastian
+ibaeta,2,FALSE,860,donostia-san-sebastian
+ibaeta,2,TRUE,1400,donostia-san-sebastian
+ibaeta,3,FALSE,1900,donostia-san-sebastian
+ibaeta,3,TRUE,1450,donostia-san-sebastian
+ibaeta,Más de 3,FALSE,3200,donostia-san-sebastian
+ibaiondo,0,TRUE,750,bilbao
+ibaiondo,1,FALSE,637.5,bilbao
+ibaiondo,1,TRUE,2000,bilbao
+ibaiondo,2,FALSE,1600,bilbao
+ibaiondo,2,TRUE,1148.3,bilbao
+ibaiondo,3,FALSE,1275,bilbao
+ibaiondo,3,TRUE,1318.8,bilbao
+ibaiondo,Más de 3,FALSE,1850,bilbao
+ibaiondo,Más de 3,TRUE,1750,bilbao
+igeldo,1,FALSE,1050,donostia-san-sebastian
+igeldo,3,TRUE,1650,donostia-san-sebastian
+igeldo,Más de 3,FALSE,6000,donostia-san-sebastian
+indautxu,0,TRUE,1180,bilbao
+indautxu,1,TRUE,1204.2,bilbao
+indautxu,2,FALSE,1400,bilbao
+indautxu,2,TRUE,1374.9,bilbao
+indautxu,3,TRUE,1608.1,bilbao
+indautxu,Más de 3,FALSE,2200,bilbao
+indautxu,Más de 3,TRUE,2150,bilbao
+intxaurrondo,1,TRUE,975,donostia-san-sebastian
+intxaurrondo,2,FALSE,1600,donostia-san-sebastian
+intxaurrondo,2,TRUE,1175,donostia-san-sebastian
+intxaurrondo,3,FALSE,1350,donostia-san-sebastian
+intxaurrondo,3,TRUE,2250,donostia-san-sebastian
+jesus,0,TRUE,1200,valencia
+jesus,1,FALSE,795,valencia
+jesus,2,FALSE,900.8,valencia
+jesus,2,TRUE,1046.2,valencia
+jesus,3,FALSE,1191.2,valencia
+jesus,3,TRUE,1308.9,valencia
+jesus,Más de 3,FALSE,1073.3,valencia
+jesus,Más de 3,TRUE,1691.2,valencia
+l-eixample,0,FALSE,1800,valencia
+l-eixample,0,TRUE,1264,valencia
+l-eixample,1,FALSE,1403.8,valencia
+l-eixample,1,TRUE,1537.2,valencia
+l-eixample,2,FALSE,1726,valencia
+l-eixample,2,TRUE,1857.4,valencia
+l-eixample,3,FALSE,1566.7,valencia
+l-eixample,3,TRUE,2385.6,valencia
+l-eixample,Más de 3,FALSE,2800,valencia
+l-eixample,Más de 3,TRUE,2511.1,valencia
+l-olivereta,0,TRUE,700,valencia
+l-olivereta,1,FALSE,800,valencia
+l-olivereta,1,TRUE,1095,valencia
+l-olivereta,2,FALSE,1145,valencia
+l-olivereta,2,TRUE,1233.9,valencia
+l-olivereta,3,FALSE,1100,valencia
+l-olivereta,3,TRUE,1178.8,valencia
+l-olivereta,Más de 3,FALSE,1800,valencia
+l-olivereta,Más de 3,TRUE,1327.7,valencia
+la-palmera-los-bermejales,0,FALSE,800,sevilla
+la-palmera-los-bermejales,1,FALSE,794,sevilla
+la-palmera-los-bermejales,1,TRUE,740,sevilla
+la-palmera-los-bermejales,2,FALSE,795,sevilla
+la-palmera-los-bermejales,2,TRUE,1025,sevilla
+la-palmera-los-bermejales,3,FALSE,1160,sevilla
+la-palmera-los-bermejales,3,TRUE,1152.6,sevilla
+la-palmera-los-bermejales,Más de 3,FALSE,2061.1,sevilla
+la-palmera-los-bermejales,Más de 3,TRUE,1445.8,sevilla
+la-saidia,0,TRUE,1156.7,valencia
+la-saidia,1,FALSE,1125,valencia
+la-saidia,1,TRUE,1068.8,valencia
+la-saidia,2,FALSE,1030,valencia
+la-saidia,2,TRUE,1211.8,valencia
+la-saidia,3,FALSE,1681.3,valencia
+la-saidia,3,TRUE,1289.6,valencia
+la-saidia,Más de 3,FALSE,900,valencia
+la-saidia,Más de 3,TRUE,1496.4,valencia
+la-vileta-son-rapinya,1,TRUE,1500,palma-de-mallorca
+la-vileta-son-rapinya,2,FALSE,3000,palma-de-mallorca
+la-vileta-son-rapinya,2,TRUE,1966.7,palma-de-mallorca
+la-vileta-son-rapinya,3,FALSE,2766.7,palma-de-mallorca
+la-vileta-son-rapinya,3,TRUE,1650,palma-de-mallorca
+la-vileta-son-rapinya,Más de 3,FALSE,3047.5,palma-de-mallorca
+la-vileta-son-rapinya,Más de 3,TRUE,3966.7,palma-de-mallorca
+las-avenidas,1,FALSE,1273.3,palma-de-mallorca
+las-avenidas,1,TRUE,1881.2,palma-de-mallorca
+las-avenidas,2,FALSE,1675,palma-de-mallorca
+las-avenidas,2,TRUE,1683,palma-de-mallorca
+las-avenidas,3,FALSE,1705,palma-de-mallorca
+las-avenidas,3,TRUE,1897.7,palma-de-mallorca
+las-avenidas,Más de 3,FALSE,3570,palma-de-mallorca
+las-avenidas,Más de 3,TRUE,2425,palma-de-mallorca
+latina,0,FALSE,1058.3,madrid
+latina,0,TRUE,1115.6,madrid
+latina,1,FALSE,1073.2,madrid
+latina,1,TRUE,1133.8,madrid
+latina,2,FALSE,1319.7,madrid
+latina,2,TRUE,1315.4,madrid
+latina,3,FALSE,1293.5,madrid
+latina,3,TRUE,1384.1,madrid
+latina,Más de 3,FALSE,2300,madrid
+latina,Más de 3,TRUE,1867.9,madrid
+les-corts,0,FALSE,1495,barcelona
+les-corts,0,TRUE,1653.3,barcelona
+les-corts,1,FALSE,1775,barcelona
+les-corts,1,TRUE,2042.3,barcelona
+les-corts,2,FALSE,2505.6,barcelona
+les-corts,2,TRUE,2545.3,barcelona
+les-corts,3,FALSE,1930,barcelona
+les-corts,3,TRUE,3052.8,barcelona
+les-corts,Más de 3,FALSE,6089.1,barcelona
+les-corts,Más de 3,TRUE,5481.7,barcelona
+llevant-la-soledat,0,FALSE,1800,palma-de-mallorca
+llevant-la-soledat,1,FALSE,900,palma-de-mallorca
+llevant-la-soledat,1,TRUE,1636.7,palma-de-mallorca
+llevant-la-soledat,2,FALSE,1633.3,palma-de-mallorca
+llevant-la-soledat,2,TRUE,1850,palma-de-mallorca
+llevant-la-soledat,3,TRUE,1630,palma-de-mallorca
+llevant-la-soledat,Más de 3,FALSE,1470,palma-de-mallorca
+llevant-la-soledat,Más de 3,TRUE,1900,palma-de-mallorca
+loiola-martutene,2,TRUE,1100,donostia-san-sebastian
+los-castros-castrillon,1,TRUE,730,a-coruna
+los-castros-castrillon,2,FALSE,610,a-coruna
+los-castros-castrillon,2,TRUE,842.5,a-coruna
+los-castros-castrillon,3,FALSE,900,a-coruna
+los-castros-castrillon,3,TRUE,943.3,a-coruna
+los-castros-castrillon,Más de 3,TRUE,1000,a-coruna
+los-remedios,0,TRUE,790,sevilla
+los-remedios,1,TRUE,886.1,sevilla
+los-remedios,2,FALSE,962.5,sevilla
+los-remedios,2,TRUE,1249,sevilla
+los-remedios,3,FALSE,1018.1,sevilla
+los-remedios,3,TRUE,1291.7,sevilla
+los-remedios,Más de 3,FALSE,1100,sevilla
+los-remedios,Más de 3,TRUE,1669.6,sevilla
+macarena,0,FALSE,750,sevilla
+macarena,1,TRUE,875,sevilla
+macarena,2,FALSE,733.2,sevilla
+macarena,2,TRUE,992.5,sevilla
+macarena,3,FALSE,973.3,sevilla
+macarena,3,TRUE,993.2,sevilla
+macarena,Más de 3,FALSE,1150,sevilla
+macarena,Más de 3,TRUE,1102.5,sevilla
+martiricos-la-roca,0,TRUE,1500,malaga
+martiricos-la-roca,1,TRUE,1573.5,malaga
+martiricos-la-roca,2,TRUE,2002.6,malaga
+martiricos-la-roca,3,TRUE,2423.3,malaga
+martiricos-la-roca,Más de 3,FALSE,1000,malaga
+martiricos-la-roca,Más de 3,TRUE,1433.3,malaga
+mesoiro,1,TRUE,600,a-coruna
+mesoiro,3,TRUE,815,a-coruna
+mesoiro,Más de 3,FALSE,2500,a-coruna
+mesoiro,Más de 3,TRUE,795,a-coruna
+miramon-zorroaga,2,TRUE,1250,donostia-san-sebastian
+miramon-zorroaga,Más de 3,FALSE,5000,donostia-san-sebastian
+moncloa,0,FALSE,875,madrid
+moncloa,0,TRUE,1241.5,madrid
+moncloa,1,FALSE,1308.5,madrid
+moncloa,1,TRUE,1453.8,madrid
+moncloa,2,FALSE,1475.6,madrid
+moncloa,2,TRUE,2216.3,madrid
+moncloa,3,FALSE,1697,madrid
+moncloa,3,TRUE,2686.1,madrid
+moncloa,Más de 3,FALSE,6381,madrid
+moncloa,Más de 3,TRUE,3406.2,madrid
+monte-alto-zalaeta-atocha,0,TRUE,750,a-coruna
+monte-alto-zalaeta-atocha,1,FALSE,703.3,a-coruna
+monte-alto-zalaeta-atocha,1,TRUE,883.3,a-coruna
+monte-alto-zalaeta-atocha,2,FALSE,775,a-coruna
+monte-alto-zalaeta-atocha,2,TRUE,1001.2,a-coruna
+monte-alto-zalaeta-atocha,3,FALSE,900,a-coruna
+monte-alto-zalaeta-atocha,3,TRUE,1248.6,a-coruna
+monte-alto-zalaeta-atocha,Más de 3,FALSE,1250,a-coruna
+monte-alto-zalaeta-atocha,Más de 3,TRUE,1308.3,a-coruna
+moratalaz,0,FALSE,1000,madrid
+moratalaz,1,TRUE,1025,madrid
+moratalaz,2,FALSE,800,madrid
+moratalaz,2,TRUE,1287,madrid
+moratalaz,3,FALSE,750,madrid
+moratalaz,3,TRUE,1272.5,madrid
+moratalaz,Más de 3,TRUE,1900,madrid
+nervion,0,FALSE,750,sevilla
+nervion,0,TRUE,900,sevilla
+nervion,1,FALSE,932.5,sevilla
+nervion,1,TRUE,935.5,sevilla
+nervion,2,FALSE,985.6,sevilla
+nervion,2,TRUE,1119,sevilla
+nervion,3,FALSE,983.6,sevilla
+nervion,3,TRUE,1273.5,sevilla
+nervion,Más de 3,FALSE,1267.5,sevilla
+nervion,Más de 3,TRUE,1402.7,sevilla
+nou-barris,0,FALSE,726,barcelona
+nou-barris,1,FALSE,1625,barcelona
+nou-barris,1,TRUE,1133.3,barcelona
+nou-barris,2,FALSE,1262.5,barcelona
+nou-barris,2,TRUE,1475.8,barcelona
+nou-barris,3,FALSE,1398,barcelona
+nou-barris,3,TRUE,1522.2,barcelona
+nou-barris,Más de 3,FALSE,1600,barcelona
+nou-barris,Más de 3,TRUE,1625,barcelona
+os-mallos,0,FALSE,799,a-coruna
+os-mallos,1,FALSE,680,a-coruna
+os-mallos,1,TRUE,500,a-coruna
+os-mallos,2,FALSE,600,a-coruna
+os-mallos,2,TRUE,786,a-coruna
+os-mallos,3,FALSE,780,a-coruna
+os-mallos,3,TRUE,862.5,a-coruna
+os-mallos,Más de 3,TRUE,950,a-coruna
+otxarkoaga-txurdinaga,3,FALSE,1500,bilbao
+otxarkoaga-txurdinaga,3,TRUE,1066.7,bilbao
+parque-alcosa,3,TRUE,817.5,sevilla
+parte-vieja,1,FALSE,2000,donostia-san-sebastian
+parte-vieja,1,TRUE,1570,donostia-san-sebastian
+parte-vieja,2,TRUE,2523.8,donostia-san-sebastian
+parte-vieja,3,TRUE,2365,donostia-san-sebastian
+parte-vieja,Más de 3,TRUE,2600,donostia-san-sebastian
+patraix,0,TRUE,1025,valencia
+patraix,1,FALSE,1375,valencia
+patraix,1,TRUE,1287.5,valencia
+patraix,2,TRUE,1267.3,valencia
+patraix,3,FALSE,1966.7,valencia
+patraix,3,TRUE,1346.1,valencia
+patraix,Más de 3,TRUE,1540,valencia
+pino-montano,1,TRUE,650,sevilla
+pino-montano,2,FALSE,850,sevilla
+pino-montano,2,TRUE,650,sevilla
+pino-montano,3,FALSE,720,sevilla
+pino-montano,3,TRUE,900,sevilla
+playa-de-palma,0,FALSE,900,palma-de-mallorca
+playa-de-palma,0,TRUE,1500,palma-de-mallorca
+playa-de-palma,1,FALSE,875,palma-de-mallorca
+playa-de-palma,1,TRUE,1560,palma-de-mallorca
+playa-de-palma,2,FALSE,1909.1,palma-de-mallorca
+playa-de-palma,2,TRUE,2114.3,palma-de-mallorca
+playa-de-palma,3,FALSE,1833.1,palma-de-mallorca
+playa-de-palma,3,TRUE,2356.2,palma-de-mallorca
+playa-de-palma,Más de 3,FALSE,3125,palma-de-mallorca
+playa-de-palma,Más de 3,TRUE,2700,palma-de-mallorca
+poblats-maritims,0,FALSE,1037.8,valencia
+poblats-maritims,0,TRUE,955,valencia
+poblats-maritims,1,FALSE,1153.7,valencia
+poblats-maritims,1,TRUE,1134.5,valencia
+poblats-maritims,2,FALSE,1469.4,valencia
+poblats-maritims,2,TRUE,1437.4,valencia
+poblats-maritims,3,FALSE,1406.6,valencia
+poblats-maritims,3,TRUE,1482.7,valencia
+poblats-maritims,Más de 3,FALSE,2407.1,valencia
+poblats-maritims,Más de 3,TRUE,1587.5,valencia
+portixol-molinar,0,FALSE,2399,palma-de-mallorca
+portixol-molinar,1,TRUE,1425,palma-de-mallorca
+portixol-molinar,2,FALSE,2872.2,palma-de-mallorca
+portixol-molinar,2,TRUE,2877.3,palma-de-mallorca
+portixol-molinar,3,FALSE,2420,palma-de-mallorca
+portixol-molinar,3,TRUE,2530.6,palma-de-mallorca
+portixol-molinar,Más de 3,FALSE,3877.3,palma-de-mallorca
+portixol-molinar,Más de 3,TRUE,3221,palma-de-mallorca
+prado-de-san-sebastian-felipe-ii-bueno-monreal,1,FALSE,766.7,sevilla
+prado-de-san-sebastian-felipe-ii-bueno-monreal,1,TRUE,870,sevilla
+prado-de-san-sebastian-felipe-ii-bueno-monreal,2,FALSE,783.3,sevilla
+prado-de-san-sebastian-felipe-ii-bueno-monreal,2,TRUE,1166.7,sevilla
+prado-de-san-sebastian-felipe-ii-bueno-monreal,3,FALSE,1053.3,sevilla
+prado-de-san-sebastian-felipe-ii-bueno-monreal,3,TRUE,1210.8,sevilla
+prado-de-san-sebastian-felipe-ii-bueno-monreal,Más de 3,FALSE,1280,sevilla
+prado-de-san-sebastian-felipe-ii-bueno-monreal,Más de 3,TRUE,1610,sevilla
+puente-de-vallecas,0,FALSE,874.5,madrid
+puente-de-vallecas,1,FALSE,975,madrid
+puente-de-vallecas,1,TRUE,1171.8,madrid
+puente-de-vallecas,2,FALSE,991.6,madrid
+puente-de-vallecas,2,TRUE,1124.9,madrid
+puente-de-vallecas,3,FALSE,1106.8,madrid
+puente-de-vallecas,3,TRUE,1225.6,madrid
+puente-de-vallecas,Más de 3,FALSE,1240,madrid
+puerto-de-la-torre,0,FALSE,662.5,malaga
+puerto-de-la-torre,0,TRUE,680,malaga
+puerto-de-la-torre,1,FALSE,773.3,malaga
+puerto-de-la-torre,2,FALSE,1075,malaga
+puerto-de-la-torre,2,TRUE,1304,malaga
+puerto-de-la-torre,3,FALSE,1457.1,malaga
+puerto-de-la-torre,3,TRUE,1526.7,malaga
+puerto-de-la-torre,Más de 3,TRUE,1440,malaga
+quatre-carreres,0,FALSE,1046.7,valencia
+quatre-carreres,0,TRUE,1210,valencia
+quatre-carreres,1,FALSE,1250,valencia
+quatre-carreres,1,TRUE,1416,valencia
+quatre-carreres,2,FALSE,1482.1,valencia
+quatre-carreres,2,TRUE,1497.9,valencia
+quatre-carreres,3,FALSE,1150,valencia
+quatre-carreres,3,TRUE,1564.2,valencia
+quatre-carreres,Más de 3,FALSE,2800,valencia
+quatre-carreres,Más de 3,TRUE,1876.6,valencia
+rafal-son-forteza,1,FALSE,1000,palma-de-mallorca
+rafal-son-forteza,1,TRUE,1011.2,palma-de-mallorca
+rafal-son-forteza,2,TRUE,1275,palma-de-mallorca
+rafal-son-forteza,3,FALSE,1425,palma-de-mallorca
+rafal-son-forteza,3,TRUE,2183.3,palma-de-mallorca
+rascanya,0,FALSE,916,valencia
+rascanya,0,TRUE,1050,valencia
+rascanya,1,FALSE,1150,valencia
+rascanya,1,TRUE,1050,valencia
+rascanya,2,FALSE,1080,valencia
+rascanya,2,TRUE,1065,valencia
+rascanya,3,FALSE,1078.9,valencia
+rascanya,3,TRUE,1146.6,valencia
+rascanya,Más de 3,FALSE,1500,valencia
+rascanya,Más de 3,TRUE,1545.8,valencia
+rekalde,0,FALSE,650,bilbao
+rekalde,0,TRUE,850,bilbao
+rekalde,1,TRUE,1000,bilbao
+rekalde,2,FALSE,835,bilbao
+rekalde,2,TRUE,1016.2,bilbao
+rekalde,3,TRUE,1207.5,bilbao
+rekalde,Más de 3,TRUE,1800,bilbao
+retiro,0,FALSE,799,madrid
+retiro,0,TRUE,1540,madrid
+retiro,1,FALSE,1587.5,madrid
+retiro,1,TRUE,1804.1,madrid
+retiro,2,FALSE,1999.2,madrid
+retiro,2,TRUE,2462.1,madrid
+retiro,3,FALSE,4900,madrid
+retiro,3,TRUE,2942.7,madrid
+retiro,Más de 3,FALSE,5500,madrid
+retiro,Más de 3,TRUE,3804.3,madrid
+riazor-los-rosales,0,FALSE,780,a-coruna
+riazor-los-rosales,1,TRUE,771.7,a-coruna
+riazor-los-rosales,2,TRUE,895.9,a-coruna
+riazor-los-rosales,3,TRUE,1001.2,a-coruna
+riazor-los-rosales,Más de 3,TRUE,1225,a-coruna
+sa-indioteria-son-castello,2,FALSE,2166.7,palma-de-mallorca
+sa-indioteria-son-castello,3,TRUE,4500,palma-de-mallorca
+sagrada-familia,1,FALSE,650,a-coruna
+sagrada-familia,1,TRUE,800,a-coruna
+sagrada-familia,2,FALSE,1312.5,a-coruna
+sagrada-familia,2,TRUE,1200,a-coruna
+sagrada-familia,3,TRUE,900,a-coruna
+sagrada-familia,Más de 3,TRUE,1150,a-coruna
+san-blas,0,FALSE,892.9,madrid
+san-blas,0,TRUE,1037.5,madrid
+san-blas,1,FALSE,1030,madrid
+san-blas,1,TRUE,1067.4,madrid
+san-blas,2,FALSE,942,madrid
+san-blas,2,TRUE,1333.6,madrid
+san-blas,3,FALSE,1181.7,madrid
+san-blas,3,TRUE,1415.5,madrid
+san-blas,Más de 3,FALSE,3164,madrid
+san-blas,Más de 3,TRUE,2700,madrid
+san-ignacio,3,FALSE,1350,bilbao
+san-ignacio,3,TRUE,1350,bilbao
+san-jeronimo,2,FALSE,1000,sevilla
+san-jeronimo,2,TRUE,700,sevilla
+san-jeronimo,3,TRUE,833.3,sevilla
+san-jeronimo,Más de 3,FALSE,1075,sevilla
+san-pablo,1,FALSE,650,sevilla
+san-pablo,2,FALSE,767.5,sevilla
+san-pablo,2,TRUE,800,sevilla
+san-pablo,3,FALSE,735.8,sevilla
+san-pablo,3,TRUE,1000,sevilla
+san-pablo,Más de 3,TRUE,1250,sevilla
+sant-andreu,0,FALSE,1933.7,barcelona
+sant-andreu,0,TRUE,1200,barcelona
+sant-andreu,1,FALSE,1269.3,barcelona
+sant-andreu,1,TRUE,1229.9,barcelona
+sant-andreu,2,FALSE,1750,barcelona
+sant-andreu,2,TRUE,1598.9,barcelona
+sant-andreu,3,FALSE,1747.5,barcelona
+sant-andreu,3,TRUE,1720,barcelona
+sant-andreu,Más de 3,FALSE,1650,barcelona
+sant-andreu,Más de 3,TRUE,1781.7,barcelona
+sant-marti,0,FALSE,1750,barcelona
+sant-marti,0,TRUE,1824.9,barcelona
+sant-marti,1,FALSE,1496.5,barcelona
+sant-marti,1,TRUE,2230.1,barcelona
+sant-marti,2,FALSE,1801.8,barcelona
+sant-marti,2,TRUE,2487.9,barcelona
+sant-marti,3,FALSE,2617.5,barcelona
+sant-marti,3,TRUE,3284.2,barcelona
+sant-marti,Más de 3,FALSE,5500,barcelona
+sant-marti,Más de 3,TRUE,4597.5,barcelona
+santa-clara,3,TRUE,1025,sevilla
+santa-clara,Más de 3,FALSE,3200,sevilla
+santa-justa-miraflores-cruz-roja,1,FALSE,950,sevilla
+santa-justa-miraflores-cruz-roja,1,TRUE,788.8,sevilla
+santa-justa-miraflores-cruz-roja,2,FALSE,766.7,sevilla
+santa-justa-miraflores-cruz-roja,2,TRUE,1065.7,sevilla
+santa-justa-miraflores-cruz-roja,3,FALSE,977.5,sevilla
+santa-justa-miraflores-cruz-roja,3,TRUE,998.9,sevilla
+santa-justa-miraflores-cruz-roja,Más de 3,FALSE,950,sevilla
+santa-justa-miraflores-cruz-roja,Más de 3,TRUE,1075,sevilla
+sants-montjuic,0,FALSE,1342,barcelona
+sants-montjuic,0,TRUE,1224.5,barcelona
+sants-montjuic,1,FALSE,1585.5,barcelona
+sants-montjuic,1,TRUE,1435.5,barcelona
+sants-montjuic,2,FALSE,1726.1,barcelona
+sants-montjuic,2,TRUE,1753.3,barcelona
+sants-montjuic,3,FALSE,1983.9,barcelona
+sants-montjuic,3,TRUE,2112,barcelona
+sants-montjuic,Más de 3,FALSE,3085.7,barcelona
+sants-montjuic,Más de 3,TRUE,2230,barcelona
+sarria-sant-gervasi,0,FALSE,1383.3,barcelona
+sarria-sant-gervasi,0,TRUE,1191.4,barcelona
+sarria-sant-gervasi,1,FALSE,1776.3,barcelona
+sarria-sant-gervasi,1,TRUE,2208.5,barcelona
+sarria-sant-gervasi,2,FALSE,2671.7,barcelona
+sarria-sant-gervasi,2,TRUE,2810.7,barcelona
+sarria-sant-gervasi,3,FALSE,3315.2,barcelona
+sarria-sant-gervasi,3,TRUE,3629.3,barcelona
+sarria-sant-gervasi,Más de 3,FALSE,5418.7,barcelona
+sarria-sant-gervasi,Más de 3,TRUE,4951.4,barcelona
+secar-de-la-real,2,TRUE,1680,palma-de-mallorca
+secar-de-la-real,3,FALSE,2400,palma-de-mallorca
+sevilla-este,0,FALSE,550,sevilla
+sevilla-este,0,TRUE,600,sevilla
+sevilla-este,1,FALSE,750,sevilla
+sevilla-este,1,TRUE,770,sevilla
+sevilla-este,2,TRUE,918.1,sevilla
+sevilla-este,3,TRUE,956,sevilla
+sevilla-este,Más de 3,FALSE,1400,sevilla
+sevilla-este,Más de 3,TRUE,992.1,sevilla
+someso-matogrande,0,TRUE,615,a-coruna
+someso-matogrande,1,TRUE,705.5,a-coruna
+someso-matogrande,2,FALSE,782.5,a-coruna
+someso-matogrande,2,TRUE,724.3,a-coruna
+someso-matogrande,3,TRUE,900.8,a-coruna
+someso-matogrande,Más de 3,TRUE,1028,a-coruna
+son-ferriol-sant-jordi,1,FALSE,1300,palma-de-mallorca
+son-ferriol-sant-jordi,2,FALSE,900,palma-de-mallorca
+son-ferriol-sant-jordi,3,FALSE,2070,palma-de-mallorca
+son-ferriol-sant-jordi,3,TRUE,1800,palma-de-mallorca
+son-ferriol-sant-jordi,Más de 3,FALSE,4616.7,palma-de-mallorca
+son-ferriol-sant-jordi,Más de 3,TRUE,1800,palma-de-mallorca
+son-oliva-plaza-toros-camp-redo,1,FALSE,1150,palma-de-mallorca
+son-oliva-plaza-toros-camp-redo,1,TRUE,1916.7,palma-de-mallorca
+son-oliva-plaza-toros-camp-redo,2,FALSE,1250,palma-de-mallorca
+son-oliva-plaza-toros-camp-redo,2,TRUE,1492.5,palma-de-mallorca
+son-oliva-plaza-toros-camp-redo,3,FALSE,1300,palma-de-mallorca
+son-oliva-plaza-toros-camp-redo,3,TRUE,1662.5,palma-de-mallorca
+son-oliva-plaza-toros-camp-redo,Más de 3,TRUE,1845,palma-de-mallorca
+son-vida,3,TRUE,2650,palma-de-mallorca
+son-vida,Más de 3,FALSE,7785.7,palma-de-mallorca
+son-vida,Más de 3,TRUE,3175,palma-de-mallorca
+sta-catalina-son-armadans-maritim,0,FALSE,1500,palma-de-mallorca
+sta-catalina-son-armadans-maritim,0,TRUE,1075,palma-de-mallorca
+sta-catalina-son-armadans-maritim,1,FALSE,1615.4,palma-de-mallorca
+sta-catalina-son-armadans-maritim,1,TRUE,1278.5,palma-de-mallorca
+sta-catalina-son-armadans-maritim,2,FALSE,1901.7,palma-de-mallorca
+sta-catalina-son-armadans-maritim,2,TRUE,2156.6,palma-de-mallorca
+sta-catalina-son-armadans-maritim,3,FALSE,2367.1,palma-de-mallorca
+sta-catalina-son-armadans-maritim,3,TRUE,2247.6,palma-de-mallorca
+sta-catalina-son-armadans-maritim,Más de 3,FALSE,3233.3,palma-de-mallorca
+sta-catalina-son-armadans-maritim,Más de 3,TRUE,2755.3,palma-de-mallorca
+teatinos,0,FALSE,790,malaga
+teatinos,0,TRUE,1055,malaga
+teatinos,1,TRUE,1087.4,malaga
+teatinos,2,TRUE,1173,malaga
+teatinos,3,FALSE,1200,malaga
+teatinos,3,TRUE,1393.3,malaga
+teatinos,Más de 3,FALSE,1300,malaga
+teatinos,Más de 3,TRUE,1611.4,malaga
+torreblanca,2,FALSE,650,sevilla
+triana,0,FALSE,878.3,sevilla
+triana,0,TRUE,781.7,sevilla
+triana,1,FALSE,820,sevilla
+triana,1,TRUE,922.2,sevilla
+triana,2,FALSE,1062.1,sevilla
+triana,2,TRUE,1077.7,sevilla
+triana,3,FALSE,1088.9,sevilla
+triana,3,TRUE,1080.9,sevilla
+triana,Más de 3,FALSE,1871.4,sevilla
+triana,Más de 3,TRUE,1471.4,sevilla
+uribarri,1,FALSE,1250,bilbao
+uribarri,1,TRUE,1162.5,bilbao
+uribarri,2,FALSE,1266.7,bilbao
+uribarri,2,TRUE,1292.9,bilbao
+uribarri,3,FALSE,1475,bilbao
+uribarri,3,TRUE,1218.3,bilbao
+usera,0,FALSE,1145.7,madrid
+usera,0,TRUE,1134,madrid
+usera,1,FALSE,1004.3,madrid
+usera,1,TRUE,1203.3,madrid
+usera,2,FALSE,1059.6,madrid
+usera,2,TRUE,1267.7,madrid
+usera,3,FALSE,1187,madrid
+usera,3,TRUE,1230,madrid
+usera,Más de 3,FALSE,2287.5,madrid
+usera,Más de 3,TRUE,1700,madrid
+valdezorras-el-gordillo,0,FALSE,800,sevilla
+valdezorras-el-gordillo,1,FALSE,800,sevilla
+valdezorras-el-gordillo,3,FALSE,1500,sevilla
+vicalvaro,1,FALSE,1100,madrid
+vicalvaro,1,TRUE,1174,madrid
+vicalvaro,2,FALSE,947.5,madrid
+vicalvaro,2,TRUE,1296.3,madrid
+vicalvaro,3,FALSE,1146.4,madrid
+vicalvaro,3,TRUE,1475.5,madrid
+vicalvaro,Más de 3,FALSE,1450,madrid
+vicalvaro,Más de 3,TRUE,1730.8,madrid
+villa-de-vallecas,0,FALSE,950,madrid
+villa-de-vallecas,0,TRUE,1096.4,madrid
+villa-de-vallecas,1,FALSE,995,madrid
+villa-de-vallecas,1,TRUE,988,madrid
+villa-de-vallecas,2,FALSE,1017.5,madrid
+villa-de-vallecas,2,TRUE,1203.3,madrid
+villa-de-vallecas,3,FALSE,1105,madrid
+villa-de-vallecas,3,TRUE,1328.1,madrid
+villa-de-vallecas,Más de 3,FALSE,3000,madrid
+villa-de-vallecas,Más de 3,TRUE,1500,madrid
+villaverde,0,FALSE,725,madrid
+villaverde,0,TRUE,1114.6,madrid
+villaverde,1,FALSE,885,madrid
+villaverde,1,TRUE,997.4,madrid
+villaverde,2,FALSE,932.5,madrid
+villaverde,2,TRUE,1078.2,madrid
+villaverde,3,FALSE,982.4,madrid
+villaverde,3,TRUE,1147,madrid
+villaverde,Más de 3,TRUE,1525,madrid
+viono,1,TRUE,630,a-coruna
+viono,2,TRUE,805,a-coruna
+viono,3,TRUE,1000,a-coruna
