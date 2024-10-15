@@ -1,0 +1,7 @@
+madrid
+malaga
+palma-de-mallorca
+sevilla
+valencia
+vitoria-gasteiz
+zaragoza
