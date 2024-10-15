@@ -1,0 +1,4 @@
+venv/
+._*
+cookies.pkl
+.DS_Store
