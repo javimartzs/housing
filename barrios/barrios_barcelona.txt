@@ -1,0 +1,10 @@
+ciutat-vella
+eixample
+gracia
+horta-guinardo
+les-corts
+nou-barris
+sant-andreu
+sant-marti
+sants-montjuic
+sarria-sant-gervasi
