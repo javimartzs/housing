@@ -1,4 +1,4 @@
-import undetected_chromedriver as uc
+import undetected_chromedriver as uc # type: ignore
 from bs4 import BeautifulSoup as bs
 import pandas as pd
 import time
